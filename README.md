@@ -18,13 +18,15 @@ I build and evaluate neural systems that make language cross boundaries — curr
 
 📄 **Published at WMT Conference (ACL Workshop)** · [ACL Anthology](#)
 
+🤗 **Live Demo (English ↔ Marathi)** · [Try it on Hugging Face Spaces](https://huggingface.co/spaces/shrikantbudde/indictrans-en-mr-translator) — powered by IndicTrans2 (en→mr and mr→en)
+
 ---
 
 ## 🛠️ Projects
 
 | Project | Stack | Status |
 |---|---|---|
-| [Bidirectional NMT — Thesis](https://github.com/buddeshrikant/Bidirectional-NMT-for-Hindi-English-Marathi-English-An-evalution-centric-study) | PyTorch · HuggingFace · LoRA · BLEU/COMET | ✅ Live |
+| [Bidirectional NMT — Thesis](https://github.com/buddeshrikant/Bidirectional-NMT-for-Hindi-English-Marathi-English-An-evalution-centric-study) · [🤗 Demo](https://huggingface.co/spaces/shrikantbudde/indictrans-en-mr-translator) | PyTorch · HuggingFace · LoRA · BLEU/COMET | ✅ en↔mr live  |
 | Document Q&A Chatbot (RAG) | LangChain · FAISS · OpenAI GPT · HuggingFace Embeddings | 🔜 Coming soon |
 | Multimodal Emotion Recognition | CNN · LSTM · Transformer · MFCC · BERT · Late Fusion | 🔜 Coming soon |
 | Customer Reordering Prediction | Random Forest · XGBoost · Scikit-learn | 🔜 Coming soon |
@@ -54,7 +56,7 @@ Tools          Git · Docker · Jupyter · Google Colab · PostgreSQL · VS Code
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrikant%20Budde-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shrikant-budde/)
-[![GitHub](https://img.shields.io/badge/GitHub-shrikant--budde-181717?style=flat&logo=github)](https://github.com/shrikant-budde)
+[![GitHub](https://img.shields.io/badge/GitHub-buddeshrikant-181717?style=flat&logo=github)](https://github.com/buddeshrikant)
 [![Email](https://img.shields.io/badge/Email-shreebudde24%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:shreebudde24@gmail.com)
 
 ---
