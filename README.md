@@ -16,7 +16,7 @@ I build and evaluate neural systems that make language cross boundaries — curr
 - Built multi-metric evaluation pipelines: BLEU, chrF++, BERTScore, COMET, TER
 - Benchmarked on in-domain (Anuvaad) and out-of-domain (IndicMQM) datasets
 
-📄 **Published at WMT Conference (ACL Workshop)** · [ACL Anthology](https://aclanthology.org/people/shrikant-budde/unverified/)
+📄 **Published at WMT Conference (ACL Workshop)** · [ACL Anthology](#)
 
 ---
 
@@ -24,7 +24,7 @@ I build and evaluate neural systems that make language cross boundaries — curr
 
 | Project | Stack | Status |
 |---|---|---|
-| [Bidirectional NMT — Thesis](https://github.com/shrikant-budde) | PyTorch · HuggingFace · LoRA · BLEU/COMET | ✅ Live |
+| [Bidirectional NMT — Thesis](https://github.com/buddeshrikant/Bidirectional-NMT-for-Hindi-English-Marathi-English-An-evalution-centric-study) | PyTorch · HuggingFace · LoRA · BLEU/COMET | ✅ Live |
 | Document Q&A Chatbot (RAG) | LangChain · FAISS · OpenAI GPT · HuggingFace Embeddings | 🔜 Coming soon |
 | Multimodal Emotion Recognition | CNN · LSTM · Transformer · MFCC · BERT · Late Fusion | 🔜 Coming soon |
 | Customer Reordering Prediction | Random Forest · XGBoost · Scikit-learn | 🔜 Coming soon |
@@ -46,7 +46,7 @@ Tools          Git · Docker · Jupyter · Google Colab · PostgreSQL · VS Code
 ## 🏆 Highlights
 
 - 🥉 **Bronze Medal** — Team Lead, Inter-IIT Tech Meet 14.0 (2025) at IIT Patna
-- 📝 **WMT @ ACL** — Research paper on Neural Machine Translation 
+- 📝 **WMT @ ACL** — Research paper on Neural Machine Translation
 - 🎓 **AIR 793** — GATE ES 2023
 
 ---
@@ -60,17 +60,3 @@ Tools          Git · Docker · Jupyter · Google Colab · PostgreSQL · VS Code
 ---
 
 *Open to AI/ML engineering and research roles. Always happy to talk NLP, translation, or evaluation frameworks.*
-<!--
-**buddeshrikant/buddeshrikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
