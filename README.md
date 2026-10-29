@@ -27,7 +27,7 @@ I build and evaluate neural systems that make language cross boundaries — curr
 | Project | Stack | Status |
 |---|---|---|
 | [Bidirectional NMT — Thesis](https://github.com/buddeshrikant/Bidirectional-NMT-for-Hindi-English-Marathi-English-An-evalution-centric-study) · [🤗 Demo](https://huggingface.co/spaces/shrikantbudde/indictrans-en-mr-translator) | PyTorch · HuggingFace · LoRA · BLEU/COMET | ✅ en↔mr live  |
-| Document Q&A Chatbot (RAG) | LangChain · FAISS · OpenAI GPT · HuggingFace Embeddings | 🔜 Coming soon |
+| [Document Q&A Chatbot (RAG)](https://github.com/buddeshrikant/DocuRAG) | ·FAISS · OpenAI GPT · HuggingFace Embeddings ·sentence-transformers ·PyMuPDF| 🔜 Coming soon |
 | [Multimodal Emotion Recognition](https://github.com/buddeshrikant/Multimodal-emotion-recognition-model-audio-video-text-) | CNN · LSTM · Transformer · MFCC · BERT · Late Fusion | live |
 | Customer Reordering Prediction | Random Forest · XGBoost · Scikit-learn | 🔜 Coming soon |
 
